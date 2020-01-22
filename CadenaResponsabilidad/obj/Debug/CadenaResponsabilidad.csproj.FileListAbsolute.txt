@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\CR\CadenaResponsabilidad\CadenaResponsabilidad\bin\Debug\CadenaResponsabilidad.exe.config
+C:\BOT\Cursos\Patrones\CR\CadenaResponsabilidad\CadenaResponsabilidad\bin\Debug\CadenaResponsabilidad.exe
+C:\BOT\Cursos\Patrones\CR\CadenaResponsabilidad\CadenaResponsabilidad\bin\Debug\CadenaResponsabilidad.pdb
+C:\BOT\Cursos\Patrones\CR\CadenaResponsabilidad\CadenaResponsabilidad\obj\Debug\CadenaResponsabilidad.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\CR\CadenaResponsabilidad\CadenaResponsabilidad\obj\Debug\CadenaResponsabilidad.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\CR\CadenaResponsabilidad\CadenaResponsabilidad\obj\Debug\CadenaResponsabilidad.exe
+C:\BOT\Cursos\Patrones\CR\CadenaResponsabilidad\CadenaResponsabilidad\obj\Debug\CadenaResponsabilidad.pdb
